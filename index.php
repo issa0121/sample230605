@@ -4,7 +4,6 @@
   </head>
   <body>
     <h1>あいうえお</h1>
-    <?php echo "JUMP"?>
-    a
+    <?php echo("HELLO")?>
   </body>
 </html>
